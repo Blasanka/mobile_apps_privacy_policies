@@ -1,6 +1,6 @@
 ## Vocab: Privacy policy
 
-Welcome to the Shares Assistant app for Android!
+Welcome to the Vocab the word reminder app for Android!
 
 This is an simple mobile Android app developed by B Liyanage Asanka to Vocabulary saving and listing for reminding later. The app is also available on Google Play.
 
